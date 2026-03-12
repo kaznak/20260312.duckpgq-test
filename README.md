@@ -51,6 +51,16 @@ duckdb
 
 ## 参考リンク
 
+### SQL/PGQ 標準
+
+- [ISO/IEC 9075-16:2023 — SQL Part 16: Property Graph Queries (SQL/PGQ)](https://www.iso.org/standard/79473.html) — 公式 ISO 標準ページ
+- [Graph Pattern Matching in GQL and SQL/PGQ](https://dl.acm.org/doi/10.1145/3514221.3526057) (SIGMOD 2022) — SQL/PGQ のグラフパターンマッチング言語 (GPML) を解説した論文
+- [GQL and SQL/PGQ Resource Collection](https://github.com/szarnyasg/graph-data-management/blob/main/GQL-and-SQL-PGQ.md) — GQL/SQL/PGQ に関するリソース集（Gabor Szarnyas 管理）
+
+### DuckPGQ
+
 - [DuckPGQ 公式サイト](https://duckpgq.org/)
 - [DuckPGQ GitHub](https://github.com/cwida/duckpgq-extension)
 - [DuckDB Community Extensions - duckpgq](https://duckdb.org/community_extensions/extensions/duckpgq)
+- [DuckPGQ: Efficient Property Graph Queries in an analytical RDBMS](https://www.cidrdb.org/cidr2023/papers/p66-wolde.pdf) (CIDR 2023)
+- [DuckPGQ: Bringing SQL/PGQ to DuckDB](https://www.vldb.org/pvldb/vol16/p4034-wolde.pdf) (VLDB 2023 Demo)
